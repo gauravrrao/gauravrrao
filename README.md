@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Gaurav Rao 👋
 
-<!--
-**gauravrrao/gauravrrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer with 3+ years of experience building scalable web applications using **JavaScript, React, Node.js, and MongoDB**.
 
-Here are some ideas to get you started:
+I enjoy working on:
+- REST API design & performance optimization
+- Backend logic and data modeling
+- Frontend performance & clean UI architecture
+- Real-world product problems, not just demos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+- **Frontend:** React, JavaScript, HTML, CSS
+- **Backend:** Node.js, Express
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, Postman
+- **Other:** REST APIs, Caching, Pagination
+
+---
+
+## 📌 Featured Projects
+🔹 **Streaming Video Website** – Video streaming UI & logic  
+🔹 **Gmail Clone** – Email UI with frontend logic  
+🔹 **LinkedIn Clone** – Social feed-style UI  
+🔹 **Smart Contract** – Solidity fundamentals  
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/gauravraoib/
+- Portfolio: https://ibgauravportfolio.netlify.app/
